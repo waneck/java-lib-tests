@@ -1,0 +1,3 @@
+-java-lib lib/jfxrt.jar
+-java bin
+-main TestJavaFX
